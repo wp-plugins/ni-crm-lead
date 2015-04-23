@@ -1,4 +1,4 @@
-=== Ni YouTube ===
+=== Ni CRM Lead ===
 Contributors: Anzar Ahmed
 Tags: Lead, CRM, Follow Up, CRM Lead,CRM Follow Up, Lead Follow Up, Follow Up History, Vendor, Customer, User, Customer services, Customer information, wordpress crm, wordpress lead, crm plugin, lead plugin,customer inquiry form, inquiry follow, inquiry followup, Customer inquiry  
 Requires at least: 4.1.1
