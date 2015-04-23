@@ -1,0 +1,41 @@
+.followup_list { /*border:1px solid red;*/}
+
+ .follow_table { 
+  width: 100%; 
+  border-collapse: collapse; 
+  border:1px solid red;
+}
+/* Zebra striping */
+.followup_list  tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+.followup_list  th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+.followup_list  td, th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+.followup {
+	 /*border:1px solid red;*/
+	 margin-top:10px;
+	background:#FFF;
+	margin-bottom:10px;
+	
+}
+
+.followup  .form_title {
+ /*border:1px solid red;*/
+height:20px;
+background: #333; 
+color:#FFF;
+font-size:20px;
+padding-top:5px;
+padding-bottom:10px;
+margin-bottom:10px; 
+font-weight:bold;
+
+}

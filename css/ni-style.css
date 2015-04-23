@@ -1,0 +1,64 @@
+.ni_follow_table {
+ width: 100%; 
+  border-collapse: collapse; 
+  border:1px solid red;	
+}
+.ni_follow_table  tr:nth-of-type(odd) { 
+  background: #eee; 
+}
+.ni_follow_table  th { 
+  background: #333; 
+  color: white; 
+  font-weight: bold; 
+}
+.ni_follow_table  td { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+.ni_follow_table  th { 
+  padding: 6px; 
+  border: 1px solid #ccc; 
+  text-align: left; 
+}
+/*Form Style*/
+.ni_form_wrap {
+background:#FFF;
+padding:10px 10px 10px 10px;
+
+/*border:1px solid red;*/
+
+}
+.ni_followup_form {
+}
+/*End Form Style*/
+/*MsgBox Style*/
+.alert-box {
+    color:#555;
+    border-radius:10px;
+    font-family:Tahoma,Geneva,Arial,sans-serif;font-size:11px;
+    padding:10px 10px 10px 36px;
+    margin:10px;
+}
+.alert-box span {
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+error {
+    background:#ffecec url('../images/error.png') no-repeat 10px 50%;
+    border:1px solid #f5aca6;
+}
+.success {
+    background:#e9ffd9 url('../images/success.png') no-repeat 10px 50%;
+    border:1px solid #a6ca8a;
+}
+.warning {
+    background:#fff8c4 url('images/warning.png') no-repeat 10px 50%;
+    border:1px solid #f2c779;
+}
+.notice {
+    background:#e3f7fc url('images/notice.png') no-repeat 10px 50%;
+    border:1px solid #8ed9f6;
+}
+/*End MsgBox Style*/
